@@ -29,3 +29,5 @@ $('div.modal').on('show.bs.modal', function() {
 		}
 	}
 });
+
+$(".fa-blog").addClass("fa-pencil")

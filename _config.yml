@@ -2,15 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://demystifyfp.com/FsTweetBook
-title: FsTweet
+url: https://www.demystifyfp.com
+title: F# Applied II
 email: demystifyfp@gmail.com
 author: Demystifyfp
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2017 Demystifyfp. All Rights Reserved.'
+description: > # 'A Practical Guide For Web Development in F# using Suave. You will also learn how to implement a complete application using Forge, FAKE, SQLProvider, Chessie, GetStream.io and Logary and deploying it to Azure App Service'
+copyright: 'Copyright &copy; 2018 Demystifyfp. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
@@ -30,3 +27,6 @@ social:
     url: https://twitter.com/demystifyfp
   - title: github
     url: https://github.com/demystifyfp
+  - title: blog
+    icon: pencil
+    url: https://www.demystifyfp.com
